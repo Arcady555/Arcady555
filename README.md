@@ -26,7 +26,8 @@ About me
 2. [HTML Parser using JSOP](https://github.com/Arcady555/job4j_grabber)
 3. [SpringBoot, Spring Data](https://github.com/Arcady555/job4j_accidents)
 4. [REST API](https://github.com/Arcady555/job4j_url_shortcut)
-5. [MicroServices, Docker](https://github.com/Arcady555/job4j_fast_food)
+5. [REST API, Docker] (https://github.com/Arcady555/job4j_auth)
+6. [MicroServices, Docker](https://github.com/Arcady555/job4j_fast_food)
 
 <!--
 **Arcady555/Arcady555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
