@@ -20,14 +20,15 @@ About me
 1. [Java SE](https://github.com/Arcady555/job4j_elementary)
 2. [SQL & JDBC](https://github.com/Arcady555/job4j_design)
 3. [Multithreading](https://github.com/Arcady555/job4j_threads)
+4. [Console CRUD app using JDBC](https://github.com/Arcady555/job4j_tracker)
+5. [HTML Parser using JSOP](https://github.com/Arcady555/job4j_grabber)
 
 ##### Projects:
-1. [Console CRUD app using JDBC](https://github.com/Arcady555/job4j_tracker)
-2. [HTML Parser using JSOP](https://github.com/Arcady555/job4j_grabber)
-3. [SpringBoot, Spring Data](https://github.com/Arcady555/job4j_accidents)
-4. [REST API](https://github.com/Arcady555/job4j_url_shortcut)
-5. [REST API, Docker](https://github.com/Arcady555/job4j_auth)
-6. [MicroServices, Kafka](https://github.com/Arcady555/job4j_fast_food)
+
+1. [SpringBoot, Spring Data](https://github.com/Arcady555/job4j_accidents)
+2. [REST API](https://github.com/Arcady555/job4j_url_shortcut)
+3. [REST API, Docker](https://github.com/Arcady555/job4j_auth)
+4. [MicroServices, Kafka](https://github.com/Arcady555/job4j_fast_food)
 
 <!--
 **Arcady555/Arcady555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
