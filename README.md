@@ -15,7 +15,7 @@ About me
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
 
 
-#### Here is my study projects:
+#### Here is my projects:
 ##### Lessons of:
 1. [Java SE](https://github.com/Arcady555/job4j_elementary)
 2. [SQL & JDBC](https://github.com/Arcady555/job4j_design)
