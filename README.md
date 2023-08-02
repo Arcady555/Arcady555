@@ -23,7 +23,7 @@ About me
 4. [Console CRUD app using JDBC](https://github.com/Arcady555/job4j_tracker)
 5. [HTML Parser using JSOP](https://github.com/Arcady555/job4j_grabber)
 
-##### Projects:
+##### Study Projects:
 
 1. [SpringBoot, Spring Data](https://github.com/Arcady555/job4j_accidents)
 2. [REST API](https://github.com/Arcady555/job4j_url_shortcut)
@@ -33,6 +33,10 @@ About me
 ##### Commercial projects:
 
 1. [MicroServices](https://github.com/Arcady555/hunt4.pro)
+
+##### Training:
+
+1. [Leetcode](https://github.com/Arcady555/LeetcodeSolutions)
 
 <!--
 **Arcady555/Arcady555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
