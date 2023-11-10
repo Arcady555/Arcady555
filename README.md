@@ -32,7 +32,8 @@ About me
 
 ##### Job projects:
 
-1. [MicroServices](https://github.com/Arcady555/hunt4.pro)
+1. [Hunt$pro](https://github.com/Arcady555/hunt4.pro)
+2. [CheckDev](https://github.com/Arcady555/CheckDev)
 
 ##### Training:
 
