@@ -16,12 +16,6 @@ About me
 
 
 #### Here is my projects:
-##### Lessons of:
-1. [Java SE](https://github.com/Arcady555/job4j_elementary)
-2. [SQL & JDBC](https://github.com/Arcady555/job4j_design)
-3. [Multithreading](https://github.com/Arcady555/job4j_threads)
-4. [Console CRUD app using JDBC](https://github.com/Arcady555/job4j_tracker)
-5. [HTML Parser using JSOP](https://github.com/Arcady555/job4j_grabber)
 
 ##### Study Projects:
 
