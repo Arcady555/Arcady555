@@ -17,7 +17,7 @@ About me
 
 #### Here is my projects:
 
-##### Last work -- Java Intensive:
+##### Last work -- Java Intensive Y Lab:
 
 1. [SpringBoot &...](https://github.com/Arcady555/YLabCarShopService)
 
