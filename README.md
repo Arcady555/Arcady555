@@ -4,7 +4,6 @@ About me
 
 * I am a programmer from Moscow :computer:
 * I learn Java at [Job4j](https://job4j.ru/) :coffee:
-* I learn Computer science in [KSU](https://kgsu.ru/eng//) (Kurgan's State University). :office:
 
 
 <b>Core technologies:</b>
