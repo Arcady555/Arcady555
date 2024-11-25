@@ -18,7 +18,8 @@ About me
 
 ##### Last work -- Java Intensive Y Lab:
 
-1. [SpringBoot &...](https://github.com/Arcady555/YLabCarShopService)
+1. [SpringBoot &...](https://github.com/Arcady555/YLabHabitTrackingApp)
+2. [SpringBoot &...](https://github.com/Arcady555/YLabCarShopService)
 
 ##### Study Projects:
 
